@@ -1,0 +1,22 @@
+Primeiramente não iremos instalar o Power Bi Desktop pela loja de aplicativo da microsoft 
+pois perderemos flexibilidade, tem versão nova do Power Bi todo mes porém, se voce instala pela microsoft store
+voce fica com algumas limitações, por exemplo: 
+
+- Não irá receber notificações
+- Mais dificil de atualizar
+---
+
+Url para Download 
+https://www.microsoft.com/pt-br/download/details.aspx?id=58494 
+---
+
+*AVISO*
+-Requesitos do sistema- 
+*Sistemas operacionais com suporte*
+- Windows 10, Windows 11, Windows Server 2016, Windows Server 2019
+- O Microsoft Power BI Desktop requer o Internet Explorer 10 ou superior.
+- O Microsoft Power BI Desktop está disponível para plataformas de64 bits (x64).
+---
+
+-Instrução de Instalação-
+Execute o instalador EXE e siga as etapas de instalação.
